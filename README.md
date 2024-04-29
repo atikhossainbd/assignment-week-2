@@ -1,16 +1,42 @@
-# image_gallery
+<h1 align='center'>Beautiful Photo Gallery</h1>
 
-Beautiful Photo Gallery
+> Repository
 
-## Getting Started
+```
+https://github.com/atikhossainbd/assignment-week-2.git
+```
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+<table align="center">
+    <tr>
+        <th>Home Page</th>
+        <th>Details Page</th>
+        <th>See more option</th>
+    </tr>
+    <tr>
+        <td><img width="200"
+                src="https://raw.githubusercontent.com/atikhossainbd/files/main/assignment%20exam%20week%202/image1.jpeg"
+                alt="Home Page">
+        </td>
+        <td><img width="200"
+                src="https://raw.githubusercontent.com/atikhossainbd/files/main/assignment%20exam%20week%202/image2.jpeg"
+                alt="Details Page"></td>
+        <td><img width="200" src="https://raw.githubusercontent.com/atikhossainbd/files/main/assignment%20exam%20week%202/image3.jpeg"
+                alt="See more option">
+        </td>
+    </tr>
+</table>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<table align="center">
+    <tr>
+        <th></th>
+    </tr>
+    <tr>
+        <td><img  width="655"
+                src="https://raw.githubusercontent.com/atikhossainbd/files/main/assignment%20exam%20week%202/image4.jpeg"
+                alt="Vertical">
+        </td>
+    </tr>
+</table>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<h1 align="center">Thank You ❤️</h1>
